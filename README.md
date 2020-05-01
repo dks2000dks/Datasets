@@ -30,5 +30,7 @@ Source: https://archive.ics.uci.edu/ml/datasets/Wine
 ## Images of Fruits for Object Detection
 Source: https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection
 
+## Flickr(8K) Dataset
+Source: https://www.kaggle.com/shadabhussain/flickr8k
 
 
