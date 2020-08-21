@@ -35,3 +35,6 @@ Source: https://www.kaggle.com/shadabhussain/flickr8k
 
 ## denoising-dirty-documents
 Source: https://www.kaggle.com/c/denoising-dirty-documents
+
+## Moving-GIF-Processed
+Source: https://yadi.sk/d/5VdqLARizmnj3Q
